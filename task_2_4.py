@@ -1,4 +1,4 @@
-Geschlecht = input("Gib dein Geschlecht ein [m/w]: ").lower()
+Geschlecht = input("Gib dein Geschlecht ein [m/w]: ")
 Gewicht = int(input("Gib dein Gewicht ein [KG]: "))
 
 if Geschlecht == "m":
