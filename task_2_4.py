@@ -5,7 +5,7 @@ if Geschlecht == "m":
     if Gewicht <= 55:
         print("Gewichtsklasse: Fliegengewicht")
 elif Gewicht <= 66:
-    print("Gewichtsklasse: Leichtgewicht")
+    print("Gewichtsklasse: Leichtgewicht")    
 elif Gewicht <= 84:
     print("Gewichtsklasse: Mittelgewicht")
 else:
