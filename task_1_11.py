@@ -5,4 +5,4 @@ gewicht = float(input("Bitte gib dein Körpergewicht ein [KG] "))
 
 bmi = gewicht/ (grösse ** 2)
 
-print(f"Dein BMI ist:", bmi)
+print("Dein BMI ist:", bmi)

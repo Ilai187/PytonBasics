@@ -11,5 +11,3 @@ else:
 print("Ausgabe 1 =", zahl1)
 print("Ausgabe 2 =", zahl2)
 
-#Bei 6 und 3 werden die beiden Zahlen vertauscht also Zahl eins wird zu Zahl 3 und Zahl 2 zu Zahl 6
-#Bei dem 7 & 7 werden die beiden Zahlen am ende als 5(Zahl 1) und 8(Zahl 2) ausgegeben

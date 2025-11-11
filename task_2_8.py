@@ -11,5 +11,3 @@ while True:
     if input("- Weitere [j/n]: ") != "j":
         break
     os.system('cls')
-
-#
